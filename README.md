@@ -4,12 +4,8 @@ To repozytorium zawiera kod źródłowy aplikacji wspierającej nawodnienie w ro
 
 ## Web
 
-Uruchomienie:
-
-1. Zainstaluj `Node.js`.
-2. Przejdź do katalogu `/web`.
-3. Przywróć pakiety npm: `npm i`.
-4. Uruchom aplikacje: `npm start`.
+Front-end to combo zwajbkodowane w niewidomo czym dokładnie, trochę JavaScript i trochę Pythona.
 
 ## API
 
+Jest w ramach frontendnu. Jednego z dwóch.
